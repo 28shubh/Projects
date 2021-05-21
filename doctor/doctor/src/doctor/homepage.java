@@ -7,7 +7,7 @@ package doctor;
 
 /**
  *
- * @author Team as$ss
+ * @author Shubham
  */
 public class homepage extends javax.swing.JFrame {
 
